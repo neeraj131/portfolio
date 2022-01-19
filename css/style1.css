@@ -305,7 +305,7 @@ font-weight: 600;
     /* margin-top: 35px; */
     padding-top: 2rem;
     font-size: 25px;
-    background: whitesmoke;
+    background: #f2f2fc;
 }
 .quali-section hr{
     border: 4px red solid;
@@ -540,7 +540,7 @@ font-weight: normal;
     padding-bottom: 8vh;
     padding-top: 2rem;
     font-size: 25px;
-    background: whitesmoke;
+    background: f2f2fc;
 }
 .project-section hr{
     border: 4px red solid;
